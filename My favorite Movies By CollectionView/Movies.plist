@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>Star Wars</string>
+        <key>Image</key>
+        <string>StarWars:TheLastJedi</string>
+        <key>Des</key>
+        <string>
+            Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.
+        </string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>The Best Of Me</string>
+        <key>Image</key>
+        <string>TheBestOfMe</string>
+        <key>Des</key>
+        <string>
+            A pair of former high school sweethearts reunite after many years when they return to visit their small hometown.
+
+        </string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>The Lucky One</string>
+        <key>Image</key>
+        <string>TheLuckyOne</string>
+        <key>Des</key>
+        <string>
+            A Marine travels to Louisiana after serving three tours in Iraq and searches for the unknown woman he believes was his good luck charm during the war.
+        </string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Jumanji</string>
+        <key>Image</key>
+        <string>Jumanji:WelcometotheJungle</string>
+        <key>Des</key>
+        <string>
+            Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.
+        </string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Greatest Showman</string>
+        <key>Image</key>
+        <string>TheGreatestShowman</string>
+        <key>Des</key>
+        <string>
+            Celebrates the birth of show business, and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation.
+        </string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Paddington 2</string>
+        <key>Image</key>
+        <string>Paddington2</string>
+        <key>Des</key>
+        <string>Paddington, now happily settled with the Brown family and a popular member of the local community, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy's 100th birthday, only for the gift to be stolen.
+        </string>
+    </dict>
+</array>
+</plist>

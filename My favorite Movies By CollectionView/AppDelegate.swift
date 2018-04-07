@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  My favorite Movies By CollectionView
-//
-//  Created by DUMDUM on 3/22/18.
-//  Copyright © 2018 IOSDeveloper. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
